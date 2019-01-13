@@ -1,0 +1,21 @@
+{
+  "name": "Entertainment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/animations": "^7.0.2",
+    "@angular/cdk": "^7.0.2",
+    "@angular/material": "^7.0.2",
+    "express": "^4.16.4",
+    "spotify-web-api-node": "^4.0.0",
+    "spotify-web-api-js":"^0.22.1"
+  }
+}
